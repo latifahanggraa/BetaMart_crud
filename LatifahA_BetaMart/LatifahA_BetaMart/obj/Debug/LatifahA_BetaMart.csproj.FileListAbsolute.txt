@@ -1,0 +1,11 @@
+D:\ukk\LatifahA_BetaMart\LatifahA_BetaMart\bin\Debug\db_betaMart.accdb
+D:\ukk\LatifahA_BetaMart\LatifahA_BetaMart\bin\Debug\LatifahA_BetaMart.exe.config
+D:\ukk\LatifahA_BetaMart\LatifahA_BetaMart\bin\Debug\LatifahA_BetaMart.exe
+D:\ukk\LatifahA_BetaMart\LatifahA_BetaMart\bin\Debug\LatifahA_BetaMart.pdb
+D:\ukk\LatifahA_BetaMart\LatifahA_BetaMart\obj\Debug\LatifahA_BetaMart.csprojAssemblyReference.cache
+D:\ukk\LatifahA_BetaMart\LatifahA_BetaMart\obj\Debug\LatifahA_BetaMart.Form1.resources
+D:\ukk\LatifahA_BetaMart\LatifahA_BetaMart\obj\Debug\LatifahA_BetaMart.Properties.Resources.resources
+D:\ukk\LatifahA_BetaMart\LatifahA_BetaMart\obj\Debug\LatifahA_BetaMart.csproj.GenerateResource.cache
+D:\ukk\LatifahA_BetaMart\LatifahA_BetaMart\obj\Debug\LatifahA_BetaMart.csproj.CoreCompileInputs.cache
+D:\ukk\LatifahA_BetaMart\LatifahA_BetaMart\obj\Debug\LatifahA_BetaMart.exe
+D:\ukk\LatifahA_BetaMart\LatifahA_BetaMart\obj\Debug\LatifahA_BetaMart.pdb
